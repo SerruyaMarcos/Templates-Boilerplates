@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Img Align Attribute</title>
+  </head>
+  <body>
+    <p>
+      This is an example. <img src="image.png" alt="Image" align="middle" /> More text right here
+      <img src="image.png" alt="Image" width="100" />
+    </p>
+  </body>
+</html>
